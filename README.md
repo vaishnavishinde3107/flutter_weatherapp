@@ -2,7 +2,9 @@
 
 Weather API Website: https://openweathermap.org/
 
-Icons website: https://icons8.com/
+Icons website: [https://icons8.com/](https://lottiefiles.com/)
+
+dependencies: https://pub.dev/
 
 ![WhatsApp Image 2024-12-14 at 21 31 53_0037990e](https://github.com/user-attachments/assets/9c66bcca-4ead-4776-a7bc-b919095a7492)
 
